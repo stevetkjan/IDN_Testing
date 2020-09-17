@@ -3,7 +3,7 @@ We will release the demo code of the "Assessing Browser-level Defense against ID
 
 ### Citation
 
-Hang Hu*, Steve T.K. Jan*, Yang Wang, Gang Wang "Assessing Browser-level Defense against IDN-based Phishingn", in USENIX Security '21
+Hang Hu, Steve T.K. Jan, Yang Wang, Gang Wang "Assessing Browser-level Defense against IDN-based Phishingn", in USENIX Security '21
 
 If you find this code or the testing cases useful for your research, please consider citing the following paper:
 
