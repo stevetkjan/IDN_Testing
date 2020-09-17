@@ -1,5 +1,5 @@
 # IDN_Testing
-We will release the demo code of the "Assessing Browser-level Defense against IDN-based Phishing".
+We will release the demo testing codes of the "Assessing Browser-level Defense against IDN-based Phishing", the testing codes based on Google’s Tesseract OCR tool.
 
 ### Citation
 
