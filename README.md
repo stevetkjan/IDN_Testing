@@ -5,7 +5,7 @@ We will release the demo testing codes of the "Assessing Browser-level Defense a
 
 
 
-If you find this code or the testing cases useful for your research, please consider citing the following paper:
+If you find this code or the IDN testing cases useful for your research, please consider citing the following paper:
 
 ```
 @inproceedings{hanghu2021usenix,
