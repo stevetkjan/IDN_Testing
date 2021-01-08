@@ -1,5 +1,5 @@
 # IDN_Testing
-This is a tool to test browsers IDN policy by recording videos, the testing codes based on Google’s Tesseract OCR tool.
+This is a tool to test browsers IDN policy by recording videos (analysis.ipynb), the testing codes based on Google’s Tesseract OCR tool.
 
 ### Citation
 
